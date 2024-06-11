@@ -1,1 +1,2 @@
 pablo: Hola mundo, este es el primer mensaje a ser commiteado
+manny: segundo mensaje desde la rama1
