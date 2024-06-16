@@ -1,2 +1,4 @@
 bye bye
+este es un cambio para que Man apruebe el pull request
 texto agregado desde la rama1
+
